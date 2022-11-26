@@ -1,7 +1,14 @@
-<h2>Demo<h2>
+<h2>Demo of the react app <h2>
 
 https://user-images.githubusercontent.com/89683890/188948004-0baa19eb-dfce-4592-ae6f-62f4bdc205c6.mp4
 
+## Mobile view of application
+
+<img width="176" alt="Screenshot 2022-11-26 121705" src="https://user-images.githubusercontent.com/89683890/204076817-9bb88eee-767f-4a96-bd5b-6676f070c85b.png">
+
+## After login
+
+<img width="176" alt="Screenshot 2022-11-26 121826" src="https://user-images.githubusercontent.com/89683890/204076822-c86df8c4-5d19-49cc-bcf7-ea8b6f11c780.png">
 
 # Getting Started with Create React App
 
