@@ -1,11 +1,6 @@
 import "./App.css";
 import React from "react";
-import "firebase/firestore";
-import "firebase/auth";
-import "firebase/compat/auth";
-import "firebase/compat/firestore";
 import { useAuthState } from "react-firebase-hooks/auth";
-import "firebase/analytics";
 import SignIn from "./SignIn";
 import SignOut from "./SignOut";
 import ChatRoom from "./ChatRoom";
